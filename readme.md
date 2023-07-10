@@ -1,3 +1,3 @@
-# python3 cources 
+# python practic files
 
 Crash cource for Git
